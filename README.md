@@ -101,8 +101,6 @@ GND is the ground pin.
 Developed by : Shakthi kumar S
 Register number : 212222110043
 
-NAME:BHARATH.K
-REG NO:212222110006
 #include "main.h"
 #include "Soil Moisture Sensor.h"
 #include "stdio.h"
